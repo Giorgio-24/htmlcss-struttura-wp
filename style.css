@@ -6,9 +6,24 @@
     box-sizing: border-box;
 }
 
+#contenuto{
+max-width: 1200px;
+margin: 0 auto;
+}
+
 /* Header */
 
+#first-header{
+    height: 100px;
+    background-color: #e579e6;
+    margin: 15px 0;
+}
 
+#second-header{
+    height: 600px;
+    margin-bottom: 15px;
+    background-color: #e1d67a;
+}
 
 /* Main */
 
