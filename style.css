@@ -41,7 +41,7 @@ header + figure{
 
 /* Main */
 
-div:nth-child(3).clearfix{
+main:nth-child(3).clearfix{
     background-color: #0185fc;
     margin-bottom: 15px;
     padding-bottom: 30px;
