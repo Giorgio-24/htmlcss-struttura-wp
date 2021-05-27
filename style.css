@@ -8,7 +8,7 @@
 
 #contenuto{
 max-width: 1200px;
-margin: 0 auto;
+margin: 15px auto;
 }
 
 .clearfix::after{
@@ -39,6 +39,7 @@ margin: 0 auto;
 .container{
     background-color: #0185fc;
     margin-bottom: 15px;
+    padding-bottom: 15px;
 }
 
 #header-container{
@@ -60,3 +61,8 @@ margin: 0 auto;
 }
 
 /* Footer */
+
+footer{
+    height: 40px;
+    background-color: #8801fe;
+}
